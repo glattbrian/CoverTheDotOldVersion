@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C9052401CE57CB90080E173"
-               BuildableName = "TempGame.app"
-               BlueprintName = "TempGame"
-               ReferencedContainer = "container:TempGame.xcodeproj">
+               BuildableName = "Cover The Dot.app"
+               BlueprintName = "Cover The Dot"
+               ReferencedContainer = "container:Cover The Dot.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C90525E1CE57CBA0080E173"
-               BuildableName = "TempGameTests.xctest"
-               BlueprintName = "TempGameTests"
-               ReferencedContainer = "container:TempGame.xcodeproj">
+               BuildableName = "Cover The Dot.xctest"
+               BlueprintName = "Cover The DotTests"
+               ReferencedContainer = "container:Cover The Dot.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "6C9052691CE57CBA0080E173"
-               BuildableName = "TempGameUITests.xctest"
-               BlueprintName = "TempGameUITests"
-               ReferencedContainer = "container:TempGame.xcodeproj">
+               BuildableName = "Cover The Dot.xctest"
+               BlueprintName = "Cover The DotUITests"
+               ReferencedContainer = "container:Cover The Dot.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C9052401CE57CB90080E173"
-            BuildableName = "TempGame.app"
-            BlueprintName = "TempGame"
-            ReferencedContainer = "container:TempGame.xcodeproj">
+            BuildableName = "Cover The Dot.app"
+            BlueprintName = "Cover The Dot"
+            ReferencedContainer = "container:Cover The Dot.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C9052401CE57CB90080E173"
-            BuildableName = "TempGame.app"
-            BlueprintName = "TempGame"
-            ReferencedContainer = "container:TempGame.xcodeproj">
+            BuildableName = "Cover The Dot.app"
+            BlueprintName = "Cover The Dot"
+            ReferencedContainer = "container:Cover The Dot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "6C9052401CE57CB90080E173"
-            BuildableName = "TempGame.app"
-            BlueprintName = "TempGame"
-            ReferencedContainer = "container:TempGame.xcodeproj">
+            BuildableName = "Cover The Dot.app"
+            BlueprintName = "Cover The Dot"
+            ReferencedContainer = "container:Cover The Dot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
@@ -106,6 +106,7 @@
    </AnalyzeAction>
    <ArchiveAction
       buildConfiguration = "Release"
+      customArchiveName = "Cover The Dot"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>

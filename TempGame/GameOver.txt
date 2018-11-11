@@ -1,0 +1,11 @@
+2
+White
+3
+PlayAgain,0,-80,150,150,1,PlayAgainButton
+Ranking,-350,-230,130,100,1,RankingButton
+Home,350,-230,100,100,1,HB
+2
+0,BasicBlackBig,0,-20,200,10,ScoreText
+0,BasicBlackBig,0,-20,130,10,HighScoreText
+1
+0,0,-80,400,400,2,GameOverText,GameOverText

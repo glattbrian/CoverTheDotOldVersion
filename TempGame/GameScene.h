@@ -7,7 +7,11 @@
 //
 
 #import <SpriteKit/SpriteKit.h>
+#import <GameKit/GameKit.h>
 
 @interface GameScene : SKScene
-
+{
+    NSSet *currentTouches;
+}
+-(NSSet*) returnTouches;
 @end

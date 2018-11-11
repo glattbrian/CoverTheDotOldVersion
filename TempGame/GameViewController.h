@@ -8,7 +8,13 @@
 
 #import <UIKit/UIKit.h>
 #import <SpriteKit/SpriteKit.h>
+#import <GameKit/GameKit.h>
 
-@interface GameViewController : UIViewController
+@interface GameViewController : UIViewController <GKGameCenterControllerDelegate>
+
+-(void)showLeaderboardAndAchievements:(BOOL)shouldShowLeaderboard;
+-(void)authenticateLocalPlayer;
+-(void)reportScore;
+-(void)runAd;
 
 @end
